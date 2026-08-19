@@ -12,7 +12,7 @@ See `architecture_diagram.png` for the full visual flow.
 
 ## Demo Video
 
-A full demo showing the complete workflow (connect → arm → takeoff → return to launch → land) is available at [`demo/drone_demo.mov`](demo/drone_demo.mov).
+A full demo showing the complete workflow (connect → arm → takeoff → return to launch → land) is available on YouTube: [https://youtu.be/VGBV6EmXly0](https://youtu.be/VGBV6EmXly0).
 
 ## Setup Instructions
 
